@@ -1,0 +1,6314 @@
+{
+  "78_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r0_c5": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 25.611797332763672,
+        "height": 27.724075317382812,
+        "x": 54.14054298400879,
+        "y": 181.64559173583984,
+        "confidence": 0.8101024031639099,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "cb9673aa-eae8-4cb4-b893-4e923018f6d0",
+        "parent_id": "image"
+      },
+      {
+        "width": 24.40106201171875,
+        "height": 31.2755126953125,
+        "x": 77.73902130126953,
+        "y": 147.6702117919922,
+        "confidence": 0.7965635657310486,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "8e5bee0f-86d0-4897-b71d-5510f4627355",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "75_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r2_c4": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 23.808303833007812,
+        "height": 29.59185791015625,
+        "x": 206.71472930908203,
+        "y": 291.08087158203125,
+        "confidence": 0.7200111150741577,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "3e470f2c-4179-409c-88cd-2783eca83400",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r0_c1": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 27.32379150390625,
+        "height": 30.403770446777344,
+        "x": 56.588653564453125,
+        "y": 104.68871688842773,
+        "confidence": 0.6114141345024109,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "abb52827-59b6-4785-8b47-9b5b1d7311a7",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "80_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r0_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 31.810001373291016,
+        "height": 33.606773376464844,
+        "x": 49.26058006286621,
+        "y": 143.32063674926758,
+        "confidence": 0.6575872898101807,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "42a4746b-83ad-4181-b3c0-f8f24f969dfc",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "78_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r2_c0": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 28.862701416015625,
+        "height": 30.392120361328125,
+        "x": 190.6881866455078,
+        "y": 173.9969482421875,
+        "confidence": 0.7797593474388123,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "d4ea0d9b-4d67-4507-89b2-4367b5674ada",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "75_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r3_c5": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 24.76508331298828,
+        "height": 24.616302490234375,
+        "x": 86.87884140014648,
+        "y": 212.16856384277344,
+        "confidence": 0.6689218878746033,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "301a6e21-55c0-4c53-a7e9-024e2cd2651a",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "71_r0_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 25.70526123046875,
+        "height": 27.86712646484375,
+        "x": 284.3613586425781,
+        "y": 292.0664367675781,
+        "confidence": 0.6462862491607666,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "fd2863f9-a3a2-4e32-8e7a-ad4cba330101",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image047_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r0_c2": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 78.83258056640625,
+        "height": 107.34478759765625,
+        "x": 133.0941619873047,
+        "y": 370.5466003417969,
+        "confidence": 0.748516857624054,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "7beaae52-afe6-47c8-a807-3c3b726ba1a9",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "67_r3_c1": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 22.877349853515625,
+        "height": 25.135406494140625,
+        "x": 140.56578063964844,
+        "y": 286.8412628173828,
+        "confidence": 0.6413674354553223,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "8fb55d70-a3c0-486e-8e40-38f69303ec23",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "80_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r0_c1": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 94.98846435546875,
+        "height": 109.84136962890625,
+        "x": 838.6130676269531,
+        "y": 106.76547241210938,
+        "confidence": 0.6748460531234741,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "722a5609-83ca-4a0e-a59f-f5f0ad4b7092",
+        "parent_id": "image"
+      },
+      {
+        "width": 88.18968200683594,
+        "height": 78.52560424804688,
+        "x": 177.82059478759766,
+        "y": 342.74916076660156,
+        "confidence": 0.660685122013092,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "23298b63-4376-458e-ac60-740ef7fe5d8b",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "80_r0_c5": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 24.891047477722168,
+        "height": 27.783721923828125,
+        "x": 24.441019535064697,
+        "y": 283.78721618652344,
+        "confidence": 0.6504851579666138,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "82efed12-3882-4815-9ebb-e5154d29c1a5",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "67_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r3_c3": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 19.955638885498047,
+        "height": 21.246551513671875,
+        "x": 44.36400032043457,
+        "y": 82.83116149902344,
+        "confidence": 0.6310514807701111,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "a8d03619-c48e-479c-8b98-5c62664bfe4c",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r2_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 24.956283569335938,
+        "height": 21.638668060302734,
+        "x": 202.80139923095703,
+        "y": 48.964494705200195,
+        "confidence": 0.6457921862602234,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "4da7026a-7ee6-4d07-a908-aa56cab43658",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image041_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r3_c7": {
+    "image": {
+      "width": 301,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 27.764918327331543,
+        "height": 23.479736328125,
+        "x": 18.514719486236572,
+        "y": 195.57876586914062,
+        "confidence": 0.6742120385169983,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "0487f2ff-3663-4080-9373-b110643243f6",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "71_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r3_c6": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 21.63951873779297,
+        "height": 21.32988739013672,
+        "x": 86.87511825561523,
+        "y": 130.37102127075195,
+        "confidence": 0.6608316898345947,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "c9f2a980-707e-4fa8-99b7-84814fcb6aac",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "68_r2_c2": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 19.47399139404297,
+        "height": 33.285865783691406,
+        "x": 82.69107437133789,
+        "y": 102.05869674682617,
+        "confidence": 0.6755859851837158,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "4cdfd255-3608-4fc7-ae1e-35c20ac20922",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image047_r1_c1": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 81.0460205078125,
+        "height": 70.69488525390625,
+        "x": 714.5536499023438,
+        "y": 567.8753356933594,
+        "confidence": 0.6099862456321716,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "a55763e6-f1fd-4ec9-a94b-8ecf07c2966e",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image048_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r2_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 28.684951782226562,
+        "height": 25.447418212890625,
+        "x": 190.35584259033203,
+        "y": 277.05213928222656,
+        "confidence": 0.7345713376998901,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "035acd2c-523b-4c0e-a577-e3bcbdea1482",
+        "parent_id": "image"
+      },
+      {
+        "width": 26.78826904296875,
+        "height": 30.145217895507812,
+        "x": 281.6058654785156,
+        "y": 59.67749786376953,
+        "confidence": 0.7147530913352966,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "ec63eca5-8a7e-47f1-9347-c7adc6817667",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "67_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r2_c1": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 20.679269790649414,
+        "height": 19.86785888671875,
+        "x": 26.653563499450684,
+        "y": 296.0660705566406,
+        "confidence": 0.6241548657417297,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "fd58dbb4-d927-4192-b73f-dbe2f588acf3",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "68_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r1_c4": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 22.610868453979492,
+        "height": 21.516632080078125,
+        "x": 41.57419681549072,
+        "y": 227.65333557128906,
+        "confidence": 0.7424329519271851,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "d776b2ec-bad9-40e3-9201-ddf1ab766489",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "63_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r2_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 23.2603759765625,
+        "height": 28.782243728637695,
+        "x": 84.94148254394531,
+        "y": 38.10558605194092,
+        "confidence": 0.7241038084030151,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "a5e246b5-7299-4764-bdd1-8e7287019041",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r2_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 26.125350952148438,
+        "height": 20.971229553222656,
+        "x": 245.34687042236328,
+        "y": 105.55166244506836,
+        "confidence": 0.6455938816070557,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "b08407a0-e5b4-4eaa-bc78-8e166f9a8d3a",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "78_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r2_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 32.016852021217346,
+        "height": 29.471885681152344,
+        "x": 17.519554793834686,
+        "y": 91.03181076049805,
+        "confidence": 0.6012614965438843,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "d95599cc-a6c1-45c8-abb4-b876af629684",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r0_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 22.785823822021484,
+        "height": 25.109970092773438,
+        "x": 47.249860763549805,
+        "y": 59.78578186035156,
+        "confidence": 0.6639745235443115,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "a35589e3-336e-4101-8382-6a97250c203f",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "80_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r1_c2": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 28.53618621826172,
+        "height": 25.07296371459961,
+        "x": 83.4528923034668,
+        "y": 63.73069190979004,
+        "confidence": 0.7801377773284912,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "af01afa6-b434-4f1f-aec2-41497f1c812a",
+        "parent_id": "image"
+      },
+      {
+        "width": 20.053176879882812,
+        "height": 18.332763671875,
+        "x": 167.31092071533203,
+        "y": 254.361328125,
+        "confidence": 0.6879538297653198,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "33398ccf-8a44-4dbe-82ee-b4ba85604ccf",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image041_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r1_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 26.298812866210938,
+        "height": 25.46875,
+        "x": 236.4416732788086,
+        "y": 180.11679077148438,
+        "confidence": 0.6324809193611145,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "64af94f4-4a1a-44f1-8ca6-c18088ecd556",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "71_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r3_c4": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 22.719009399414062,
+        "height": 25.243545532226562,
+        "x": 154.62580108642578,
+        "y": 209.59778594970703,
+        "confidence": 0.662388026714325,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "96ef98b8-615b-4eb9-bf5a-c0f314ecaf21",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r0_c0": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 22.730758666992188,
+        "height": 29.282791137695312,
+        "x": 197.33002471923828,
+        "y": 210.57488250732422,
+        "confidence": 0.6647274494171143,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "2288ffa1-b865-4f6f-bd13-1bfb8c6954de",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r0_c1": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 31.386600494384766,
+        "height": 23.041366577148438,
+        "x": 71.28816795349121,
+        "y": 56.076805114746094,
+        "confidence": 0.6246821284294128,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "e71d912d-ae03-41e4-aa16-02561b20451b",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "71_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r2_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 25.061012268066406,
+        "height": 23.672149658203125,
+        "x": 124.60403060913086,
+        "y": 293.9768524169922,
+        "confidence": 0.6067714691162109,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "407970db-60cc-4961-870b-b3470133a1b1",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r1_c4": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 26.015640258789062,
+        "height": 26.393646240234375,
+        "x": 213.69829559326172,
+        "y": 65.17777252197266,
+        "confidence": 0.7006763815879822,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "2917a9f7-774c-4741-a728-31d63952553d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "62_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r2_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 26.173728942871094,
+        "height": 25.569198608398438,
+        "x": 89.29523849487305,
+        "y": 98.22947692871094,
+        "confidence": 0.7589595317840576,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "61371cdd-6803-4228-b356-5a7cce7eca70",
+        "parent_id": "image"
+      },
+      {
+        "width": 20.606521606445312,
+        "height": 27.160842895507812,
+        "x": 170.57347869873047,
+        "y": 99.63802337646484,
+        "confidence": 0.6389269828796387,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "976b3414-fe7a-4fc5-a644-44466ffa29d6",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r0_c1": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 113.83892822265625,
+        "height": 82.38333129882812,
+        "x": 761.7154235839844,
+        "y": 311.81065368652344,
+        "confidence": 0.634676992893219,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "69924d9d-2d01-4654-b280-f6006e0c297d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image044_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r0_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 22.166610717773438,
+        "height": 23.238052368164062,
+        "x": 80.6233139038086,
+        "y": 201.20391082763672,
+        "confidence": 0.7823939919471741,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "f2b368e0-07ba-4840-896f-6e2a2dcd7930",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "70_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r3_c7": {
+    "image": {
+      "width": 301,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 20.735565185546875,
+        "height": 23.566043853759766,
+        "x": 290.63221740722656,
+        "y": 60.6031551361084,
+        "confidence": 0.6322106122970581,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "dd97d82b-9dd4-496e-bd22-2c974cd30132",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "62_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r2_c4": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 19.670120239257812,
+        "height": 27.048118591308594,
+        "x": 209.70366668701172,
+        "y": 79.04939651489258,
+        "confidence": 0.7027208805084229,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "32c87347-65d7-4223-b3e1-c24d206f70b9",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "69_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r0_c1": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 26.155654907226562,
+        "height": 22.231658935546875,
+        "x": 261.70137786865234,
+        "y": 98.85169219970703,
+        "confidence": 0.6331564784049988,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "bf73cc82-2788-4b66-9072-ac6d520db8b9",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r0_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 32.338104248046875,
+        "height": 29.344375610351562,
+        "x": 243.2494659423828,
+        "y": 61.56658935546875,
+        "confidence": 0.6501054167747498,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "028b032e-201a-42bf-bcc7-fffaf3ecd984",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "72_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r0_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 25.3914794921875,
+        "height": 29.583587646484375,
+        "x": 206.4598846435547,
+        "y": 147.9763641357422,
+        "confidence": 0.7351085543632507,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "175c6b0a-211c-4aa3-a371-5bac74ea6214",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r2_c5": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 26.18566131591797,
+        "height": 19.83612060546875,
+        "x": 83.37417221069336,
+        "y": 79.59680938720703,
+        "confidence": 0.7944974899291992,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "de6d5200-a5dd-40a5-9300-6d68b61f1788",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "74_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r2_c4": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 28.273178100585938,
+        "height": 29.803085327148438,
+        "x": 150.2948226928711,
+        "y": 244.29190826416016,
+        "confidence": 0.7499492168426514,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "c71d452a-80a9-40e2-b2e8-96be2666aec0",
+        "parent_id": "image"
+      },
+      {
+        "width": 25.23114013671875,
+        "height": 29.311859130859375,
+        "x": 261.6039733886719,
+        "y": 219.5692596435547,
+        "confidence": 0.62431401014328,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "306f5bf9-d849-4dae-8df7-274cbb13eb46",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r0_c5": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 26.10479164123535,
+        "height": 22.97539520263672,
+        "x": 42.90678691864014,
+        "y": 61.32929611206055,
+        "confidence": 0.6724544763565063,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "6ca6a8e2-bfde-4a80-b28d-a139b31bc79d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "72_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r1_c1": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 106.98236083984375,
+        "height": 96.51483249664307,
+        "x": 808.6660461425781,
+        "y": 55.305434703826904,
+        "confidence": 0.7044880390167236,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "9a2e5a87-46a8-42d3-9a4a-4fb08aa4b7b6",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "80_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r2_c2": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 24.796550750732422,
+        "height": 26.687576293945312,
+        "x": 47.52337837219238,
+        "y": 121.06043243408203,
+        "confidence": 0.614058792591095,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "09e9f680-5a23-44a6-afdc-e05f84ef769c",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r3_c2": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 27.908447265625,
+        "height": 20.608882904052734,
+        "x": 161.3387908935547,
+        "y": 66.6559009552002,
+        "confidence": 0.645873486995697,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "4a6ffb23-cd74-4b33-a715-cacb9098013d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "78_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r1_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 27.257049560546875,
+        "height": 25.585479736328125,
+        "x": 274.02687072753906,
+        "y": 63.55485534667969,
+        "confidence": 0.6947052478790283,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "5807aba8-ddc2-40bc-8b27-a8a209460d5d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r3_c0": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 22.075145721435547,
+        "height": 22.370834350585938,
+        "x": 59.76285743713379,
+        "y": 227.5248794555664,
+        "confidence": 0.7248767018318176,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "e41153f0-8686-4d5f-ae4a-3125605676f8",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "68_r1_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 33.68028259277344,
+        "height": 26.0013427734375,
+        "x": 164.68572235107422,
+        "y": 86.82080078125,
+        "confidence": 0.7708955407142639,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "3d870f99-de58-44ad-b086-0a4527ca691d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "75_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r0_c0": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 98.89984130859375,
+        "height": 97.2734146118164,
+        "x": 450.8739013671875,
+        "y": 145.56005477905273,
+        "confidence": 0.7466685175895691,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "d22839e8-9ddf-4923-bded-82b527ce657b",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "71_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r3_c2": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 24.29808807373047,
+        "height": 28.301483154296875,
+        "x": 97.83424758911133,
+        "y": 243.7090606689453,
+        "confidence": 0.7254183292388916,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "d7859e63-539e-40f5-8da5-d1e70fa513a4",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "67_r2_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 33.76312255859375,
+        "height": 28.333396911621094,
+        "x": 180.68898010253906,
+        "y": 70.23970413208008,
+        "confidence": 0.7156424522399902,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "8de11ed2-4b63-4660-b4b7-a5c39a0a0727",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image048_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r3_c5": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 29.4619140625,
+        "height": 25.720016479492188,
+        "x": 146.4384307861328,
+        "y": 32.869327545166016,
+        "confidence": 0.6172559857368469,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "f175708d-899e-4cc6-b7c7-289089168c1e",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "67_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r1_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 33.192138671875,
+        "height": 32.9329833984375,
+        "x": 279.13177490234375,
+        "y": 257.6117248535156,
+        "confidence": 0.640942394733429,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "6b5ec93a-4bab-4d1b-bbe0-62b687acfe65",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "78_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r1_c5": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 27.228546142578125,
+        "height": 24.93991470336914,
+        "x": 275.5834197998047,
+        "y": 65.98010063171387,
+        "confidence": 0.7834042906761169,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "0f3366c6-348e-4616-9fbb-8f47e07f93a5",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "67_r0_c4": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 19.221065521240234,
+        "height": 23.135391235351562,
+        "x": 51.24676704406738,
+        "y": 236.44660186767578,
+        "confidence": 0.6269172430038452,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "f04f5f31-8402-4c07-bee9-c8d78cdf6922",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "80_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r1_c3": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 82.37060546875,
+        "height": 93.86532592773438,
+        "x": 230.87094116210938,
+        "y": 551.6178741455078,
+        "confidence": 0.6036210060119629,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "654b6048-2132-4fdb-86fb-bc35f53d5295",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image045_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r3_c4": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 20.056260108947754,
+        "height": 28.771331787109375,
+        "x": 20.59236478805542,
+        "y": 292.5692901611328,
+        "confidence": 0.6139307022094727,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "9dbae714-9827-445a-9465-8f9a52c65c4d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "75_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r0_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 23.487548828125,
+        "height": 23.14154052734375,
+        "x": 188.35040283203125,
+        "y": 293.7420959472656,
+        "confidence": 0.6993695497512817,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "88863b60-f2bb-4219-be75-cdbf2654fa42",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "65_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r3_c2": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 94.54571533203125,
+        "height": 109.39688873291016,
+        "x": 622.7566223144531,
+        "y": 111.71458053588867,
+        "confidence": 0.7117406725883484,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "b348d5db-e7c6-4779-96dd-a43c4d7bd709",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image048_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image045_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r3_c1": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 25.322830200195312,
+        "height": 19.57637071609497,
+        "x": 200.41670989990234,
+        "y": 17.138133764266968,
+        "confidence": 0.6350594162940979,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "58419263-bb0c-4ee5-986e-1ba310ec757e",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "63_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r0_c2": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 23.160430908203125,
+        "height": 19.456268310546875,
+        "x": 192.459716796875,
+        "y": 219.40512084960938,
+        "confidence": 0.7446242570877075,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "21ce8f1d-f227-4230-985f-519c9b676334",
+        "parent_id": "image"
+      },
+      {
+        "width": 23.35296630859375,
+        "height": 27.403579711914062,
+        "x": 132.93719482421875,
+        "y": 236.4366226196289,
+        "confidence": 0.6906054615974426,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "6ee25e86-fac6-4fb0-a347-4cee3c322d10",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "77_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r3_c1": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 100.83758544921875,
+        "height": 121.06271362304688,
+        "x": 757.9330139160156,
+        "y": 210.3387908935547,
+        "confidence": 0.647534966468811,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "06e339de-633e-42bc-be15-a3f96cade27e",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image041_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image041_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image048_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r1_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 26.225372314453125,
+        "height": 24.65178108215332,
+        "x": 287.7864532470703,
+        "y": 23.894461631774902,
+        "confidence": 0.628147542476654,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "c9404682-a103-4026-8f6d-0caad99fe598",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "80_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image043_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r0_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 20.844940185546875,
+        "height": 23.133132934570312,
+        "x": 209.17628479003906,
+        "y": 217.3060073852539,
+        "confidence": 0.7137757539749146,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "013bcb4d-7ade-4db5-bb4e-187dc20d78c0",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "71_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image047_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "75_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "65_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "71_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "78_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "68_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "77_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "67_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "80_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "73_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "63_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r1_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 28.600807189941406,
+        "height": 27.50617218017578,
+        "x": 139.87766647338867,
+        "y": 115.39745712280273,
+        "confidence": 0.6984653472900391,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "fb324222-0db0-4d9e-8fdd-14238476ef01",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "70_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r0_c7": {
+    "image": {
+      "width": 301,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 28.75665283203125,
+        "height": 25.654315948486328,
+        "x": 267.42962646484375,
+        "y": 65.43297386169434,
+        "confidence": 0.6230040788650513,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "2ead7944-124f-4cd7-94e6-a79bc83b90ec",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "66_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r0_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 25.176544189453125,
+        "height": 21.195144653320312,
+        "x": 173.62623596191406,
+        "y": 72.82292938232422,
+        "confidence": 0.6691648364067078,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "971c83f8-a64d-43c5-8bff-7e3ae8d22efe",
+        "parent_id": "image"
+      },
+      {
+        "width": 28.348846435546875,
+        "height": 24.485069274902344,
+        "x": 241.53201293945312,
+        "y": 75.52254867553711,
+        "confidence": 0.643585205078125,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "29ee314c-6de0-4f98-8b23-45692b1507dc",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "62_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image044_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r1_c2": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 18.98089027404785,
+        "height": 26.143577575683594,
+        "x": 9.490445137023926,
+        "y": 40.30355453491211,
+        "confidence": 0.6083775162696838,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "aee68d89-e018-468e-9e38-7565f1d64de1",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "66_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r3_c0": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 25.22919750213623,
+        "height": 18.518112182617188,
+        "x": 19.82308053970337,
+        "y": 262.58179473876953,
+        "confidence": 0.6777728796005249,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "d2bb1958-0c59-420f-9c5d-41dcabe14375",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "69_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r1_c1": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 91.602294921875,
+        "height": 94.9615249633789,
+        "x": 641.0426635742188,
+        "y": 155.96667098999023,
+        "confidence": 0.664952278137207,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "dec42f75-c23f-4a78-a37a-2ac457aa889d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image044_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r0_c2": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 104.80316162109375,
+        "height": 86.00923156738281,
+        "x": 699.1208190917969,
+        "y": 190.9205093383789,
+        "confidence": 0.7463822364807129,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "3e85301b-56fd-4824-a405-2cec5701e3cc",
+        "parent_id": "image"
+      },
+      {
+        "width": 79.89450073242188,
+        "height": 100.61878967285156,
+        "x": 225.7255096435547,
+        "y": 246.27889251708984,
+        "confidence": 0.6565967798233032,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "bf308d04-a636-4e08-8bbc-9afe645e83cb",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "70_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r1_c1": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 22.050451278686523,
+        "height": 22.21923065185547,
+        "x": 41.64360523223877,
+        "y": 104.77630996704102,
+        "confidence": 0.6349418759346008,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "e9072f93-0a89-4d1d-9753-1022cd6d688f",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "72_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r1_c5": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 22.740432739257812,
+        "height": 22.26592254638672,
+        "x": 119.2007064819336,
+        "y": 39.81156539916992,
+        "confidence": 0.7529465556144714,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "89cc61a0-b0b4-4133-9677-4a60c49a82ad",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "70_r3_c3": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 25.956466674804688,
+        "height": 26.61749267578125,
+        "x": 109.11434173583984,
+        "y": 93.83023071289062,
+        "confidence": 0.8157321214675903,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "cd1eec61-6346-444d-bad0-c51f99b1a329",
+        "parent_id": "image"
+      },
+      {
+        "width": 25.7904052734375,
+        "height": 31.475364685058594,
+        "x": 271.6998596191406,
+        "y": 128.31885147094727,
+        "confidence": 0.7690091729164124,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "caf710f3-8f09-48bd-81b7-074a8a814aaa",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r0_c1": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 18.793701171875,
+        "height": 29.658798217773438,
+        "x": 141.09097290039062,
+        "y": 238.5448226928711,
+        "confidence": 0.6362766623497009,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "1f482aeb-6cad-4820-b1e0-455e0b622cc5",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "72_r0_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r1_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r2_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r3_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r1_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 29.937791347503662,
+        "height": 33.94184875488281,
+        "x": 15.39340329170227,
+        "y": 167.36641693115234,
+        "confidence": 0.6781499981880188,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "4d78a121-89bd-42ad-b464-2b6d1b82c4c2",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "66_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r3_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r0_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r1_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r3_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r2_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r3_c6": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 22.996231079101562,
+        "height": 23.367889404296875,
+        "x": 219.54036712646484,
+        "y": 261.2644805908203,
+        "confidence": 0.6369513273239136,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "df042c13-c962-4403-8ebd-0d6dfa5b437e",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r1_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r3_c4": {
+    "image": {
+      "width": 295,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 36.50402069091797,
+        "height": 29.755935668945312,
+        "x": 140.0440559387207,
+        "y": 147.51671600341797,
+        "confidence": 0.6768752932548523,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "50f821d7-1a61-4072-b5c5-0f12e9d70f27",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r0_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r2_c1": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 98.84610748291016,
+        "height": 98.25439453125,
+        "x": 152.6584587097168,
+        "y": 409.35333251953125,
+        "confidence": 0.7329922318458557,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "b01f55e1-7c8b-4fce-be03-15d6ac14becc",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "Image042_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r0_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r3_c1": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 94.0245361328125,
+        "height": 92.7545166015625,
+        "x": 668.9285888671875,
+        "y": 121.16206359863281,
+        "confidence": 0.6615778803825378,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "da68c497-3c50-4786-afd3-a5296cbfa27d",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "66_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "62_r1_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r0_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r2_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r3_c7": {
+    "image": {
+      "width": 301,
+      "height": 307
+    },
+    "predictions": [
+      {
+        "width": 27.669464111328125,
+        "height": 26.46497344970703,
+        "x": 227.2113494873047,
+        "y": 100.92531967163086,
+        "confidence": 0.7148791551589966,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "8553917d-bae8-4c04-b90c-ede3d1469748",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r2_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r1_c1": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 24.040985107421875,
+        "height": 24.885662078857422,
+        "x": 90.47576904296875,
+        "y": 72.14200782775879,
+        "confidence": 0.761043131351471,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "445c1f0c-f198-41e1-8874-30cd5e483513",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "64_r3_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r2_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r1_c0": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 34.95899963378906,
+        "height": 18.214035034179688,
+        "x": 218.63800811767578,
+        "y": 131.16631317138672,
+        "confidence": 0.7525590658187866,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "acf1d5c3-1cd4-4a5e-9e81-9dd5923f6fc3",
+        "parent_id": "image"
+      },
+      {
+        "width": 25.692031860351562,
+        "height": 19.755292892456055,
+        "x": 90.52886962890625,
+        "y": 33.99002552032471,
+        "confidence": 0.6672723293304443,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "88ad15c7-c8d8-48ee-a0ab-c134f3283af0",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "79_r2_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r3_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r2_c6": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image050_r3_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "72_r0_c3": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 25.846343994140625,
+        "height": 23.314178466796875,
+        "x": 272.9886932373047,
+        "y": 229.83824157714844,
+        "confidence": 0.639449954032898,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "526e9b2d-2e7a-41dc-9194-30c978ac65f5",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "62_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "76_r1_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "66_r0_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image049_r3_c0": {
+    "image": {
+      "width": 1000,
+      "height": 750
+    },
+    "predictions": [
+      {
+        "width": 99.933349609375,
+        "height": 82.3687744140625,
+        "x": 145.4588165283203,
+        "y": 380.0371398925781,
+        "confidence": 0.6217744946479797,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "6f5ce88e-b9a6-452e-813d-e35d04bfe705",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "72_r2_c6": {
+    "image": {
+      "width": 295,
+      "height": 306
+    },
+    "predictions": [
+      {
+        "width": 25.747215270996094,
+        "height": 21.782485961914062,
+        "x": 41.211509704589844,
+        "y": 240.9942855834961,
+        "confidence": 0.702379584312439,
+        "class_id": 0,
+        "class": "neutrophil",
+        "detection_id": "a6a7dfef-a970-496a-98cd-6dc2c494ca18",
+        "parent_id": "image"
+      }
+    ]
+  },
+  "62_r3_c2": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "74_r0_c4": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "64_r1_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image042_r1_c1": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "Image046_r2_c0": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "79_r0_c7": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "70_r3_c5": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  },
+  "69_r1_c3": {
+    "image": {
+      "width": null,
+      "height": null
+    },
+    "predictions": []
+  }
+}
